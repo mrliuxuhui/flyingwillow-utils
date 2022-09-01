@@ -2,7 +2,7 @@
 
 ## 1. 包说明
     
-* factor : 优化代码结构工具类
+* refactor : 优化代码结构工具类
 
     [BranchBuilder](doc/重构/分支管理.md)
 

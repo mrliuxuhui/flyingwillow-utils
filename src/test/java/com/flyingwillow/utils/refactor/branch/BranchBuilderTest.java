@@ -6,7 +6,7 @@ import java.util.Optional;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-class BranchBuilderTest {
+public class BranchBuilderTest {
 
     @Test
     public void 无返回值排序_无else() {
